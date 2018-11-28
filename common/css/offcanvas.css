@@ -7,6 +7,7 @@ body {
   overflow-x: hidden; /* Prevent scroll on narrow devices */
   font-family: 'Tajawal', sans-serif;
   font-size: 20px;
+  background-color:#ffffe6;
 }
 body {
   padding-top: 70px;
@@ -15,6 +16,10 @@ footer {
   padding: 30px 0;
 }
 
+header {
+	
+	direction: rtl;
+}
 /*
  * Off Canvas
  * --------------------------------------------------
