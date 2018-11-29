@@ -4591,33 +4591,33 @@ fieldset[disabled] .navbar-default .btn-link:focus {
   color: #ccc;
 }
 .navbar-inverse {
-  background-color: #555;
+  background-color: #00802b;
   border-color: #080808;
 }
 .navbar-inverse .navbar-brand {
-  color: #ffff00;
+  color: #ff8000;
 }
 .navbar-inverse .navbar-brand:hover,
 .navbar-inverse .navbar-brand:focus {
-  color: #fff;
+  color: #ff8000;
   background-color: transparent;
 }
 .navbar-inverse .navbar-text {
-  color: white;
+  color: #ff8000;
 }
 .navbar-inverse .navbar-nav > li > a {
-  color: #ffff00;
+  color: #ff8000;
 }
 .navbar-inverse .navbar-nav > li > a:hover,
 .navbar-inverse .navbar-nav > li > a:focus {
   color: #fff;
-  background-color: #4caf50;/*white*/
+  background-color: #ff8000;/*white*/
 }
 .navbar-inverse .navbar-nav > .active > a,
 .navbar-inverse .navbar-nav > .active > a:hover,
 .navbar-inverse .navbar-nav > .active > a:focus {
   color: #fff;
-  background-color: #4caf50;
+  background-color: #ff8000;
 }
 .navbar-inverse .navbar-nav > .disabled > a,
 .navbar-inverse .navbar-nav > .disabled > a:hover,
