@@ -12,9 +12,9 @@
         </div>
         <div id="navbar" class="collapse navbar-collapse navbar-right " >
           <ul class="nav navbar-nav ">
-            <li class="active"><a href="#">الرئيسية</a></li>
-            <li><a href="#about">About</a></li>
-            <li><a href="#contact">Contact</a></li>
+<li class="{% if page.code == '1' %}active{% endif %}"><a href="{{site.baseurl}}/index.html"><i class="glyphicon glyphicon-home"></i></a></li>
+<li class="{% if page.code == '2' %}active{% endif %}"><a href="{{site.baseurl}}/actualites/index.html"><i class="glyphicon glyphicon-th-list"></i>  أخبار و مستجدات</a></li>
+<li><a href="{{site.baseurl}}/index.html"><i class="glyphicon glyphicon-phone-alt"></i> Contact</a></li>
 			
           </ul>
         </div><!-- /.nav-collapse -->
