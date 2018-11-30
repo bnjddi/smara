@@ -7,7 +7,7 @@ body {
   overflow-x: hidden; /* Prevent scroll on narrow devices */
   font-family: 'Tajawal', sans-serif;
   font-size: 20px;
-  background-color:#fff;
+  background-image: url("ecolesmara.jpg");
 }
 body {
   padding-top: 70px;
